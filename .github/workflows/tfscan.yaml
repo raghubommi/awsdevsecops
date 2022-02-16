@@ -1,3 +1,4 @@
+name: Terraform Vulnerability Analysis
 on: [push]
 jobs:
   checkov-job:
